@@ -12,4 +12,4 @@
 
 ⚡ **Fun Fact**: I'm always exploring new ways to integrate AI into creative marketing strategies and education.
 
-![Marta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
+![Marta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martmats&show_icons=true)
