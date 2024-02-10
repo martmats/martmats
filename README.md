@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I'm Marta 👋
 
-<!--
-**martmats/martmats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**: I'm a seasoned Digital Strategy Director and Founder at The Steptorial, specializing in digital marketing, AI adoption, and prompt engineering. With over 15 years of experience, I'm passionate about empowering professionals through education and innovative AI solutions.
 
-Here are some ideas to get you started:
+🌟 **What I Do**: I've trained over 20,000 professionals, integrating AI tools into digital marketing strategies and educational curriculums at The Steptorial. I'm dedicated to enhancing decision-making and creativity in marketing through tailored AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education & Skills**: Recently completed specialized courses in Data Science and AI,  digital marketing strategies an in formation of Python, machine learning,. Fluent in English, Spanish, and Catalan.
+
+🔗 **Connect with Me**:
+- LinkedIn: [marta-matias-roca](https://www.linkedin.com/in/marta-matias-roca/)
+- Email: marta@thesteptorial.com
+
+⚡ **Fun Fact**: I'm always exploring new ways to integrate AI into creative marketing strategies and education.
+
+![Marta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
