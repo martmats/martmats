@@ -4,7 +4,7 @@
 
 🌟 **What I Do**: I've trained over 20,000 professionals with my online courses and mentoring, integrating AI tools into digital marketing strategies and educational curriculums at The Steptorial. I'm dedicated to enhancing decision-making and creativity in marketing through tailored AI applications.
 
-🎓 **Education & Skills**: Recently completed specialized courses in Data Science and AI,  digital marketing strategies an in formation of Python, machine learning,. Fluent in English, Spanish, and Catalan.
+🎓 **Education & Skills**: Recently completed specialized courses in Data Science and AI,  digital marketing strategies an in formation of Python and Machine Learning. Fluent in English, Spanish and Catalan.
 
 🔗 **Connect with Me**:
 - LinkedIn: [marta-matias-roca](https://www.linkedin.com/in/marta-matias-roca/)
